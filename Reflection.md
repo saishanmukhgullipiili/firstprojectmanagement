@@ -1,0 +1,3 @@
+features,miestones,issues and project boardss
+greatly enhances team collabration and project organization.Milestones help set clear goals and deadlines allowing the team to algin their efforts towards common objectives
+by defineing what needss to be accomplished in a specific timeframe team members can prititize their tasks and remain focused on critical deliverables.
